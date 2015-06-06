@@ -1,0 +1,3 @@
+Create a class Path3D to hold a sequence of points in 3D space.
+Create a static class Storage with static methods to save and load paths from a text file.
+Use a file format of your choice. Ensure you close correctly all files with the "using" statement.
